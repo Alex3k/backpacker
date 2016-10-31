@@ -15,4 +15,3 @@ config(function($routeProvider) {
     	redirectTo: "/"
     })
 });
-
